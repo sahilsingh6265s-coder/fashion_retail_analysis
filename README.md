@@ -8,6 +8,16 @@ This repository analyzes the Kaggle *Global Fashion Retail Stores Dataset* acros
 
 ---
 
+## Dashboard Preview
+
+<p align="center">
+  <img src="assets/dashboard-preview.png" alt="Fashion retail promotion dashboard" width="900">
+</p>
+
+The offline dashboard summarizes the campaign comparison, markdown economics, and demand-planning findings without requiring the source dataset or a live data connection.
+
+---
+
 ## Project at a Glance
 
 | Area | Deliverable | What it answers |
