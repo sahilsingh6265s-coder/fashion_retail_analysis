@@ -1,0 +1,111 @@
+category,subcategory,discount_pct,units,baskets,sale_revenue,selling_price_per_unit,contribution_per_unit,margin_proxy_pct
+Children,Accessories,0.0,20623,18521,379575.5,18.41,12.23,66.42
+Children,Accessories,20.0,5101,4453,81355.2,15.95,9.56,59.95
+Children,Accessories,25.0,3420,3003,50510.7,14.77,8.92,60.4
+Children,Accessories,50.0,4112,3696,41883.0,10.19,3.73,36.65
+Children,Accessories,60.0,172,150,1443.2,8.39,1.58,18.81
+Children,Baby (0-12 months),0.0,21528,19475,675950.5,31.4,21.19,67.49
+Children,Baby (0-12 months),50.0,4142,3742,70890.5,17.12,7.19,42.03
+Children,Baby (0-12 months),60.0,141,129,1915.6,13.59,3.99,29.36
+Children,Coats,0.0,19817,17915,1126936.5,56.87,37.32,65.63
+Children,Coats,40.0,5962,5156,152559.0,25.59,6.05,23.66
+Children,Coats,45.0,9226,8060,306288.33,33.2,14.04,42.28
+Children,Coats,50.0,4178,3798,127132.25,30.43,11.28,37.08
+Children,Coats,60.0,156,144,3782.2,24.24,4.36,17.98
+Children,"Girl and Boy (1-5 years, 6-14 years)",0.0,18942,17116,888391.5,46.9,30.69,65.43
+Children,"Girl and Boy (1-5 years, 6-14 years)",25.0,3362,2997,126140.73,37.52,21.34,56.88
+Children,"Girl and Boy (1-5 years, 6-14 years)",35.0,17111,14468,557196.72,32.56,16.33,50.15
+Children,"Girl and Boy (1-5 years, 6-14 years)",45.0,9498,8323,269342.34,28.36,12.15,42.84
+Children,"Girl and Boy (1-5 years, 6-14 years)",50.0,4117,3728,107482.25,26.11,9.83,37.65
+Children,"Girl and Boy (1-5 years, 6-14 years)",60.0,144,127,3026.2,21.02,5.14,24.47
+Children,Pajamas,0.0,21362,19231,660090.5,30.9,20.56,66.55
+Children,Pajamas,25.0,3395,2950,86526.21,25.49,14.52,56.98
+Children,Pajamas,50.0,4070,3664,67318.0,16.54,6.67,40.33
+Children,Pajamas,60.0,136,127,1757.2,12.92,3.59,27.79
+Children,Sweaters,0.0,20825,18765,864711.5,41.52,27.27,65.69
+Children,Sweaters,20.0,5025,4367,175035.6,34.83,20.69,59.41
+Children,Sweaters,40.0,5610,4915,104612.7,18.65,4.49,24.08
+Children,Sweaters,50.0,4264,3774,94843.0,22.24,7.98,35.87
+Children,Sweaters,60.0,144,130,2527.6,17.55,3.44,19.63
+Feminine,Accessories,0.0,33061,29683,595724.5,18.02,11.71,64.98
+Feminine,Accessories,50.0,6170,5525,60438.0,9.8,3.53,36.01
+Feminine,Accessories,60.0,204,185,1502.8,7.37,1.3,17.7
+Feminine,Coats and Blazers,0.0,56601,50473,4106271.0,72.55,47.72,65.78
+Feminine,Coats and Blazers,40.0,7008,6065,233022.6,33.25,8.23,24.74
+Feminine,Coats and Blazers,50.0,10941,9708,432490.5,39.53,13.74,34.77
+Feminine,Coats and Blazers,60.0,404,348,12536.4,31.03,5.81,18.72
+Feminine,Dresses and Jumpsuits,0.0,50642,44812,3099076.5,61.2,39.92,65.23
+Feminine,Dresses and Jumpsuits,25.0,4516,3996,227365.28,50.35,28.82,57.25
+Feminine,Dresses and Jumpsuits,35.0,11178,9689,487614.79,43.62,21.89,50.18
+Feminine,Dresses and Jumpsuits,45.0,8862,7785,318177.94,35.9,14.69,40.92
+Feminine,Dresses and Jumpsuits,50.0,11045,9809,365977.75,33.14,11.98,36.17
+Feminine,Dresses and Jumpsuits,60.0,419,364,10996.8,26.25,5.22,19.89
+Feminine,Lingerie and Pajamas,0.0,33097,29602,1038753.0,31.39,20.65,65.79
+Feminine,Lingerie and Pajamas,50.0,6283,5625,105903.25,16.86,6.05,35.87
+Feminine,Lingerie and Pajamas,60.0,235,214,3125.4,13.3,2.69,20.23
+Feminine,Pants and Jeans,0.0,58346,52006,3921032.5,67.2,44.38,66.04
+Feminine,Pants and Jeans,50.0,10963,9751,393577.25,35.9,13.25,36.92
+Feminine,Pants and Jeans,60.0,436,385,12597.4,28.89,6.17,21.34
+Feminine,Shirts and Blouses,0.0,52096,46249,2146845.5,41.21,27.46,66.64
+Feminine,Shirts and Blouses,35.0,11159,9654,318554.57,28.55,14.53,50.9
+Feminine,Shirts and Blouses,45.0,8789,7690,217680.13,24.77,11.22,45.32
+Feminine,Shirts and Blouses,50.0,11169,9865,253657.0,22.71,9.19,40.48
+Feminine,Shirts and Blouses,60.0,415,378,7271.8,17.52,3.92,22.34
+Feminine,Skirts and Shorts,0.0,53611,47651,1659476.0,30.95,20.16,65.14
+Feminine,Skirts and Shorts,25.0,4622,4011,115369.39,24.96,14.26,57.14
+Feminine,Skirts and Shorts,45.0,8963,7851,164659.19,18.37,7.45,40.54
+Feminine,Skirts and Shorts,50.0,11072,9879,186938.5,16.88,5.9,34.96
+Feminine,Skirts and Shorts,60.0,397,361,5259.6,13.25,2.04,15.38
+Feminine,Sportswear,0.0,56528,50318,2613329.5,46.23,30.82,66.67
+Feminine,Sportswear,20.0,6114,5281,236797.2,38.73,23.57,60.87
+Feminine,Sportswear,50.0,11240,9966,278342.0,24.76,9.41,38.01
+Feminine,Sportswear,60.0,403,352,7947.4,19.72,4.68,23.74
+Feminine,Suits and Sets,0.0,59000,52358,6095135.5,103.31,67.12,64.98
+Feminine,Suits and Sets,50.0,11067,9821,625109.25,56.48,19.12,33.85
+Feminine,Suits and Sets,60.0,399,353,17823.4,44.67,7.29,16.31
+Feminine,Sweaters and Knitwear,0.0,55198,49103,2631523.0,47.67,31.45,65.97
+Feminine,Sweaters and Knitwear,20.0,6093,5272,246302.4,40.42,23.99,59.35
+Feminine,Sweaters and Knitwear,40.0,6867,5933,146568.3,21.34,4.73,22.17
+Feminine,Sweaters and Knitwear,50.0,10954,9729,281223.0,25.67,9.22,35.92
+Feminine,Sweaters and Knitwear,60.0,401,351,8343.8,20.81,3.97,19.06
+Feminine,T-shirts and Tops,0.0,57179,50961,1622547.0,28.38,18.77,66.14
+Feminine,T-shirts and Tops,25.0,4498,3977,103667.18,23.05,12.77,55.4
+Feminine,T-shirts and Tops,50.0,10827,9628,166865.75,15.41,6.14,39.85
+Feminine,T-shirts and Tops,60.0,437,371,5323.0,12.18,3.01,24.68
+Masculine,Accessories,0.0,33358,29907,580734.5,17.41,11.26,64.69
+Masculine,Accessories,50.0,6116,5505,56918.0,9.31,3.12,33.49
+Masculine,Accessories,60.0,251,213,1916.4,7.64,0.86,11.23
+Masculine,Coats and Blazers,0.0,73123,64505,5355852.5,73.24,48.73,66.53
+Masculine,Coats and Blazers,40.0,7466,6438,251293.8,33.66,9.0,26.72
+Masculine,Coats and Blazers,50.0,14229,12596,574877.25,40.4,15.8,39.1
+Masculine,Coats and Blazers,60.0,566,485,18310.2,32.35,7.57,23.41
+Masculine,Pants and Jeans,0.0,69703,61313,4490579.5,64.42,42.38,65.78
+Masculine,Pants and Jeans,25.0,6381,5434,333327.06,52.24,29.9,57.23
+Masculine,Pants and Jeans,45.0,12548,10772,484701.96,38.63,16.56,42.86
+Masculine,Pants and Jeans,50.0,14410,12582,510890.0,35.45,13.46,37.96
+Masculine,Pants and Jeans,60.0,581,496,16489.0,28.38,6.49,22.86
+Masculine,Shirts,0.0,66979,59193,2040193.5,30.46,20.21,66.34
+Masculine,Shirts,35.0,12064,10384,259303.06,21.49,11.28,52.46
+Masculine,Shirts,45.0,12532,10804,225793.46,18.02,7.74,42.99
+Masculine,Shirts,50.0,14108,12509,233486.0,16.55,6.25,37.76
+Masculine,Shirts,60.0,547,468,7055.2,12.9,2.67,20.66
+Masculine,Sportswear,0.0,73648,64783,3476310.0,47.2,31.17,66.03
+Masculine,Sportswear,20.0,6576,5717,262551.6,39.93,24.18,60.56
+Masculine,Sportswear,50.0,14342,12567,365287.0,25.47,9.48,37.22
+Masculine,Sportswear,60.0,557,487,11260.8,20.22,4.22,20.88
+Masculine,Suits and Blazers,0.0,75566,66641,7782726.0,102.99,67.27,65.31
+Masculine,Suits and Blazers,50.0,14353,12629,805514.75,56.12,20.23,36.04
+Masculine,Suits and Blazers,60.0,530,451,23273.4,43.91,9.3,21.17
+Masculine,Sweaters and Sweatshirts,0.0,70716,62356,3307462.0,46.77,30.9,66.07
+Masculine,Sweaters and Sweatshirts,20.0,6602,5690,259586.8,39.32,23.67,60.21
+Masculine,Sweaters and Sweatshirts,40.0,7635,6605,161437.8,21.14,5.3,25.07
+Masculine,Sweaters and Sweatshirts,50.0,14175,12494,354749.25,25.03,9.63,38.48
+Masculine,Sweaters and Sweatshirts,60.0,519,450,10278.2,19.8,4.28,21.59
+Masculine,T-shirts and Polos,0.0,68844,60674,2609412.5,37.9,25.43,67.08
+Masculine,T-shirts and Polos,25.0,6525,5607,198268.84,30.39,17.89,58.88
+Masculine,T-shirts and Polos,35.0,12004,10329,313445.85,26.11,13.85,53.06
+Masculine,T-shirts and Polos,50.0,14309,12638,300947.75,21.03,8.6,40.88
+Masculine,T-shirts and Polos,60.0,560,485,9193.8,16.42,4.31,26.25
+Masculine,Underwear and Pajamas,0.0,33084,29706,1044772.0,31.58,20.96,66.37
+Masculine,Underwear and Pajamas,50.0,6134,5459,104981.25,17.11,6.45,37.71
+Masculine,Underwear and Pajamas,60.0,225,214,3057.2,13.59,2.55,18.74

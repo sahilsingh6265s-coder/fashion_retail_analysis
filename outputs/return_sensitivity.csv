@@ -1,0 +1,4 @@
+rule,return_lines,net_revenue
+all recorded,89301,75023511.69999999
+drop exact duplicate rows,89025,75037131.02
+first row per return key (stress test only),83607,75313073.24

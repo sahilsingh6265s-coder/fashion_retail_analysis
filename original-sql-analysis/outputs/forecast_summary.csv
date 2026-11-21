@@ -1,0 +1,4 @@
+category,model,next_week_ending,forecast_units,holdout_wape_pct,baseline_wape_pct
+Children,last_week,2025-03-23,2926,20.210703750526758,20.210703750526758
+Feminine,last_week,2025-03-23,8354,8.98155407914827,8.98155407914827
+Masculine,last_week,2025-03-23,8445,9.640831758034027,9.640831758034027
